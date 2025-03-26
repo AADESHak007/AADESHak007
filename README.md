@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on bridging messaging services via matrix<br>👯 I’m looking to collaborate on some innovative projects<br>🌱 I’m currently learning ML <br>✌️LEVEL-4 badge in HACTOBERFEST-24 <br>📈 TOP 13% GSSOC-extd 2024
 
 
 # 💻 Tech Stack:
